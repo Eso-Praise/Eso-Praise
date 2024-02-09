@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eso-Praise
 - 👀 I’m interested in ...Web Development, Database Management, Ethical Hacking, AI & Machine Learning and Data Analysis
-- 🌱 I’m currently learning ...Back-End Languages
+- 🌱 I’m currently learning ...Java Programming
 - 💞️ I’m looking to collaborate on ...Front-End Packages
 - 📫 How to reach me ...esochaghipraise@gmail.com
 - 😄 Pronouns: ...He/Him
